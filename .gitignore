@@ -1,0 +1,3 @@
+*.log
+* nodejs_modules/
+*.env
